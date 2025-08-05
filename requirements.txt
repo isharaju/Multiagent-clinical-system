@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+geopy
+streamlit
+pydantic
+transformers
+torch
